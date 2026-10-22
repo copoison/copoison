@@ -6,9 +6,9 @@
 $${\color{#d1aabc}winterfest⠀⠀ 20⠀⠀ they/them⠀⠀ diagnosed⠀DID⠀system⠀⠀ infrequent⠀switching}$$
 </p>
 <p align="center">
-<a href="https://github.com/princeofheart"><img src="https://files.catbox.moe/2sc873.png" width="90"></a><a href="https://github.com/timeturntables"><img src="https://files.catbox.moe/42n2bq.png" width="90"></a><a href="https://github.com/gnostalgic"><img src="https://files.catbox.moe/o7ip0n.png" width="90"></a>⠀<a href="https://github.com/clawkind"><img src="https://files.catbox.moe/b6ka8k.png" width="88"></a>⠀⠀⠀⠀⠀<a href="https://pluralkit.xyz/f/lvusg"><img src="https://files.catbox.moe/sass5g.png" width="110"></a>
+<a href="https://github.com/princeofheart"><img src="./image_2026-10-22_182136831.png" width="90"></a><a href="https://github.com/timeturntables"><img src="./image_2026-10-22_182149335.png" width="90"></a><a href="https://github.com/gnostalgic"><img src="./image_2026-10-22_182323868.png" width="90"></a>⠀<a href="https://github.com/clawkind"><img src="./image_2026-10-22_182349983.png" width="88"></a>⠀⠀⠀⠀⠀<a href="https://pluralkit.xyz/f/lvusg"><img src="./image_2026-10-22_182410743.png" width="110"></a>
 </p>
 ⠀
 <p align="center">
-<img src="https://files.catbox.moe/74j5xb.png">
+<img src="./image_2026-10-22_182435450.png">
 </p>
