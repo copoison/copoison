@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=copoison&label=throw+a+bone&base=420000&abbreviated=true&color=2d2d2a" width="125">
-</p>
-⠀
-<p align="center">
 $${\color{#d1aabc}winterfest⠀⠀ 20⠀⠀ they/them⠀⠀ diagnosed⠀DID⠀system⠀⠀ infrequent⠀switching}$$
 </p>
 <p align="center">
